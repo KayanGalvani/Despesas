@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515454053695",
+    "project_id": "trabalhodm-fce55",
+    "storage_bucket": "trabalhodm-fce55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515454053695:android:715cb29b15847bf599b78a",
+        "android_client_info": {
+          "package_name": "despesaagro30.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36Kx5eR36gVSpTiwwqnkG48Dg-Rc35cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
